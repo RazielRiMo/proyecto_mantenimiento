@@ -1,0 +1,11 @@
+C:/zephyr/zephyrproject/deps/zephyr/include/zephyr/drivers/gpio.h:887:19:z_impl_gpio_pin_interrupt_configure	16	static
+C:/zephyr/zephyrproject/deps/zephyr/include/zephyr/drivers/gpio.h:998:19:z_impl_gpio_pin_configure	16	static
+C:/zephyr/zephyrproject/deps/zephyr/include/zephyr/drivers/gpio.h:1066:19:gpio_pin_configure_dt	8	static
+C:/zephyr/zephyrproject/deps/zephyr/include/zephyr/drivers/gpio.h:1314:19:gpio_port_get	16	static
+C:/zephyr/zephyrproject/deps/zephyr/include/zephyr/drivers/gpio.h:1602:19:gpio_pin_get	16	static
+C:/zephyr/zephyrproject/deps/zephyr/include/zephyr/drivers/gpio.h:1650:19:gpio_pin_set_raw	8	static
+C:/zephyr/zephyrproject/deps/zephyr/include/zephyr/drivers/gpio.h:1690:19:gpio_pin_set	8	static
+C:/zephyr/zephyrproject/deps/zephyr/include/zephyr/drivers/gpio.h:1795:19:gpio_add_callback	8	static
+C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/Sensores_y_Actuadores/src/main.c:35:6:button_pressed	8	static
+C:/zephyr/zephyrproject/deps/zephyr/include/zephyr/kernel.h:702:23:k_msleep	8	static
+C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/Sensores_y_Actuadores/src/main.c:41:5:main	16	static

@@ -1,2 +1,3 @@
-# proyecto_mantenimiento
-proyecto para mantenimiento de carro tipo tren con vagones
+# PROYECTO DE MANTENIMENTO
+
+El proyecto consta de un carro con vagones impulsado por dos motores que dan direccion al auto
