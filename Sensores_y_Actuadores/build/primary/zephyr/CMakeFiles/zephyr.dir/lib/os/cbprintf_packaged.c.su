@@ -6,4 +6,4 @@ C:/zephyr/zephyrproject/deps/zephyr/lib/os/cbprintf_packaged.c:233:5:cbvprintf_p
 C:/zephyr/zephyrproject/deps/zephyr/lib/os/cbprintf_packaged.c:819:5:cbprintf_package	28	static
 C:/zephyr/zephyrproject/deps/zephyr/lib/os/cbprintf_packaged.c:831:5:cbpprintf_external	40	static
 C:/zephyr/zephyrproject/deps/zephyr/lib/os/cbprintf_packaged.c:886:6:is_ptr	24	static
-C:/zephyr/zephyrproject/deps/zephyr/lib/os/cbprintf_packaged.c:913:5:cbprintf_package_convert	128	static
+C:/zephyr/zephyrproject/deps/zephyr/lib/os/cbprintf_packaged.c:913:5:cbprintf_package_convert	168	dynamic,bounded

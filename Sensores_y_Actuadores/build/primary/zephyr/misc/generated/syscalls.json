@@ -145,6 +145,38 @@
     ],
     [
         [
+            "int adc_channel_setup",
+            "const struct device *dev, const struct adc_channel_cfg *channel_cfg"
+        ],
+        "adc.h",
+        true
+    ],
+    [
+        [
+            "int adc_read",
+            "const struct device *dev, const struct adc_sequence *sequence"
+        ],
+        "adc.h",
+        true
+    ],
+    [
+        [
+            "int adc_read_async",
+            "const struct device *dev, const struct adc_sequence *sequence, struct k_poll_signal *async"
+        ],
+        "adc.h",
+        true
+    ],
+    [
+        [
+            "int adc_get_decoder",
+            "const struct device *dev, const struct adc_decoder_api **api"
+        ],
+        "adc.h",
+        true
+    ],
+    [
+        [
             "int gpio_pin_interrupt_configure",
             "const struct device *port, gpio_pin_t pin, gpio_flags_t flags"
         ],
@@ -225,6 +257,46 @@
     ],
     [
         [
+            "int pwm_set_cycles",
+            "const struct device *dev, uint32_t channel, uint32_t period, uint32_t pulse, pwm_flags_t flags"
+        ],
+        "pwm.h",
+        true
+    ],
+    [
+        [
+            "int pwm_get_cycles_per_sec",
+            "const struct device *dev, uint32_t channel, uint64_t *cycles"
+        ],
+        "pwm.h",
+        true
+    ],
+    [
+        [
+            "int pwm_enable_capture",
+            "const struct device *dev, uint32_t channel"
+        ],
+        "pwm.h",
+        true
+    ],
+    [
+        [
+            "int pwm_disable_capture",
+            "const struct device *dev, uint32_t channel"
+        ],
+        "pwm.h",
+        true
+    ],
+    [
+        [
+            "int pwm_capture_cycles",
+            "const struct device *dev, uint32_t channel, pwm_flags_t flags, uint32_t *period, uint32_t *pulse, k_timeout_t timeout"
+        ],
+        "pwm.h",
+        true
+    ],
+    [
+        [
             "int reset_status",
             "const struct device *dev, uint32_t id, uint8_t *status"
         ],
@@ -253,6 +325,70 @@
             "const struct device *dev, uint32_t id"
         ],
         "reset.h",
+        true
+    ],
+    [
+        [
+            "int rtc_set_time",
+            "const struct device *dev, const struct rtc_time *timeptr"
+        ],
+        "rtc.h",
+        true
+    ],
+    [
+        [
+            "int rtc_get_time",
+            "const struct device *dev, struct rtc_time *timeptr"
+        ],
+        "rtc.h",
+        true
+    ],
+    [
+        [
+            "int rtc_alarm_get_supported_fields",
+            "const struct device *dev, uint16_t id, uint16_t *mask"
+        ],
+        "rtc.h",
+        true
+    ],
+    [
+        [
+            "int rtc_alarm_set_time",
+            "const struct device *dev, uint16_t id, uint16_t mask, const struct rtc_time *timeptr"
+        ],
+        "rtc.h",
+        true
+    ],
+    [
+        [
+            "int rtc_alarm_get_time",
+            "const struct device *dev, uint16_t id, uint16_t *mask, struct rtc_time *timeptr"
+        ],
+        "rtc.h",
+        true
+    ],
+    [
+        [
+            "int rtc_alarm_is_pending",
+            "const struct device *dev, uint16_t id"
+        ],
+        "rtc.h",
+        true
+    ],
+    [
+        [
+            "int rtc_set_calibration",
+            "const struct device *dev, int32_t calibration"
+        ],
+        "rtc.h",
+        true
+    ],
+    [
+        [
+            "int rtc_get_calibration",
+            "const struct device *dev, int32_t *calibration"
+        ],
+        "rtc.h",
         true
     ],
     [
@@ -1333,38 +1469,6 @@
             "unsigned int reason"
         ],
         "arch.h",
-        false
-    ],
-    [
-        [
-            "int adc_channel_setup",
-            "const struct device *dev, const struct adc_channel_cfg *channel_cfg"
-        ],
-        "adc.h",
-        false
-    ],
-    [
-        [
-            "int adc_read",
-            "const struct device *dev, const struct adc_sequence *sequence"
-        ],
-        "adc.h",
-        false
-    ],
-    [
-        [
-            "int adc_read_async",
-            "const struct device *dev, const struct adc_sequence *sequence, struct k_poll_signal *async"
-        ],
-        "adc.h",
-        false
-    ],
-    [
-        [
-            "int adc_get_decoder",
-            "const struct device *dev, const struct adc_decoder_api **api"
-        ],
-        "adc.h",
         false
     ],
     [
@@ -3313,46 +3417,6 @@
     ],
     [
         [
-            "int pwm_set_cycles",
-            "const struct device *dev, uint32_t channel, uint32_t period, uint32_t pulse, pwm_flags_t flags"
-        ],
-        "pwm.h",
-        false
-    ],
-    [
-        [
-            "int pwm_get_cycles_per_sec",
-            "const struct device *dev, uint32_t channel, uint64_t *cycles"
-        ],
-        "pwm.h",
-        false
-    ],
-    [
-        [
-            "int pwm_enable_capture",
-            "const struct device *dev, uint32_t channel"
-        ],
-        "pwm.h",
-        false
-    ],
-    [
-        [
-            "int pwm_disable_capture",
-            "const struct device *dev, uint32_t channel"
-        ],
-        "pwm.h",
-        false
-    ],
-    [
-        [
-            "int pwm_capture_cycles",
-            "const struct device *dev, uint32_t channel, pwm_flags_t flags, uint32_t *period, uint32_t *pulse, k_timeout_t timeout"
-        ],
-        "pwm.h",
-        false
-    ],
-    [
-        [
             "ssize_t retained_mem_size",
             "const struct device *dev"
         ],
@@ -3381,70 +3445,6 @@
             "const struct device *dev"
         ],
         "retained_mem.h",
-        false
-    ],
-    [
-        [
-            "int rtc_set_time",
-            "const struct device *dev, const struct rtc_time *timeptr"
-        ],
-        "rtc.h",
-        false
-    ],
-    [
-        [
-            "int rtc_get_time",
-            "const struct device *dev, struct rtc_time *timeptr"
-        ],
-        "rtc.h",
-        false
-    ],
-    [
-        [
-            "int rtc_alarm_get_supported_fields",
-            "const struct device *dev, uint16_t id, uint16_t *mask"
-        ],
-        "rtc.h",
-        false
-    ],
-    [
-        [
-            "int rtc_alarm_set_time",
-            "const struct device *dev, uint16_t id, uint16_t mask, const struct rtc_time *timeptr"
-        ],
-        "rtc.h",
-        false
-    ],
-    [
-        [
-            "int rtc_alarm_get_time",
-            "const struct device *dev, uint16_t id, uint16_t *mask, struct rtc_time *timeptr"
-        ],
-        "rtc.h",
-        false
-    ],
-    [
-        [
-            "int rtc_alarm_is_pending",
-            "const struct device *dev, uint16_t id"
-        ],
-        "rtc.h",
-        false
-    ],
-    [
-        [
-            "int rtc_set_calibration",
-            "const struct device *dev, int32_t calibration"
-        ],
-        "rtc.h",
-        false
-    ],
-    [
-        [
-            "int rtc_get_calibration",
-            "const struct device *dev, int32_t *calibration"
-        ],
-        "rtc.h",
         false
     ],
     [

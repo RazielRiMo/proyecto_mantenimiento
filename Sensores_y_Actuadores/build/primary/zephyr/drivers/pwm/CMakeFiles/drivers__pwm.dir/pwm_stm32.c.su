@@ -1,0 +1,15 @@
+C:/zephyr/zephyrproject/deps/modules/hal/stm32/stm32cube/stm32f4xx/drivers/include/stm32f4xx_ll_tim.h:1734:22:LL_TIM_OC_SetMode	8	static
+C:/zephyr/zephyrproject/deps/modules/hal/stm32/stm32cube/stm32f4xx/drivers/include/stm32f4xx_ll_tim.h:1793:22:LL_TIM_OC_SetPolarity	0	static
+C:/zephyr/zephyrproject/deps/modules/hal/stm32/stm32cube/stm32f4xx/drivers/include/stm32f4xx_ll_tim.h:1854:22:LL_TIM_OC_SetIdleState	0	static
+C:/zephyr/zephyrproject/deps/modules/hal/stm32/stm32cube/stm32f4xx/drivers/include/stm32f4xx_ll_tim.h:1969:22:LL_TIM_OC_EnablePreload	4	static
+C:/zephyr/zephyrproject/deps/modules/hal/stm32/stm32cube/stm32f4xx/drivers/include/stm32f4xx_ll_tim.h:2120:22:LL_TIM_OC_SetCompareCH1	0	static
+C:/zephyr/zephyrproject/deps/modules/hal/stm32/stm32cube/stm32f4xx/drivers/include/stm32f4xx_ll_tim.h:2137:22:LL_TIM_OC_SetCompareCH2	0	static
+C:/zephyr/zephyrproject/deps/modules/hal/stm32/stm32cube/stm32f4xx/drivers/include/stm32f4xx_ll_tim.h:2154:22:LL_TIM_OC_SetCompareCH3	0	static
+C:/zephyr/zephyrproject/deps/modules/hal/stm32/stm32cube/stm32f4xx/drivers/include/stm32f4xx_ll_tim.h:2171:22:LL_TIM_OC_SetCompareCH4	0	static
+C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/Sensores_y_Actuadores/build/primary/zephyr/include/generated/zephyr/syscalls/reset.h:99:19:reset_line_toggle	8	static
+C:/zephyr/zephyrproject/deps/zephyr/drivers/pwm/pwm_stm32.c:219:17:get_polarity	0	static
+C:/zephyr/zephyrproject/deps/zephyr/drivers/pwm/pwm_stm32.c:242:13:ll_tim_set_trigger_output	0	static
+C:/zephyr/zephyrproject/deps/zephyr/drivers/pwm/pwm_stm32.c:649:12:pwm_stm32_get_cycles_per_sec	0	static
+C:/zephyr/zephyrproject/deps/zephyr/drivers/pwm/pwm_stm32.c:252:12:pwm_stm32_set_cycles	32	static
+C:/zephyr/zephyrproject/deps/zephyr/include/zephyr/drivers/pinctrl.h:345:19:pinctrl_apply_state	16	static
+C:/zephyr/zephyrproject/deps/zephyr/drivers/pwm/pwm_stm32.c:670:12:pwm_stm32_init	120	dynamic,bounded

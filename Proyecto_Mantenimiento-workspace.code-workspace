@@ -1,10 +1,19 @@
 {
-    "folders": [
-        {
-            "path": "."
-        }
-    ],
-    "settings": {
-        "terminal.integrated.stickyScroll.enabled": false
-    }
+	"folders": [
+		{
+			"name": "Sensores_y_Actuadores",
+			"path": "Sensores_y_Actuadores"
+		},
+		{
+			"name": "proyecto_mantenimiento",
+			"path": "."
+		},
+		{
+			"name": "zephyrproject",
+			"path": "../../../../../zephyr/zephyrproject"
+		}
+	],
+	"settings": {
+		"terminal.integrated.stickyScroll.enabled": false
+	}
 }
