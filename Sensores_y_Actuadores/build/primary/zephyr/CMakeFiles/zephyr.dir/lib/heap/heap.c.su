@@ -7,9 +7,9 @@ C:/zephyr/zephyrproject/deps/zephyr/lib/heap/heap.c:270:18:mem_to_chunkid	0	stat
 C:/zephyr/zephyrproject/deps/zephyr/lib/heap/heap.c:119:13:free_list_remove	8	static
 C:/zephyr/zephyrproject/deps/zephyr/lib/heap/heap.c:163:13:free_list_add	8	static
 C:/zephyr/zephyrproject/deps/zephyr/lib/heap/heap.c:233:13:free_chunk	24	static
-C:/zephyr/zephyrproject/deps/zephyr/lib/heap/heap.c:547:13:inplace_realloc	32	static
+C:/zephyr/zephyrproject/deps/zephyr/lib/heap/heap.c:547:13:inplace_realloc	112	dynamic,bounded
 C:/zephyr/zephyrproject/deps/zephyr/lib/heap/heap.c:358:18:alloc_chunk	16	static
-C:/zephyr/zephyrproject/deps/zephyr/lib/heap/heap.c:276:6:sys_heap_free	8	static
+C:/zephyr/zephyrproject/deps/zephyr/lib/heap/heap.c:276:6:sys_heap_free	104	dynamic,bounded
 C:/zephyr/zephyrproject/deps/zephyr/lib/heap/heap.c:346:8:sys_heap_usable_size	16	static
 C:/zephyr/zephyrproject/deps/zephyr/lib/heap/heap.c:417:7:sys_heap_alloc	24	static
 C:/zephyr/zephyrproject/deps/zephyr/lib/heap/heap.c:459:7:sys_heap_noalign_alloc	8	static

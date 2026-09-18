@@ -46,11 +46,13 @@ case K_OBJ_ADC_DECODER_API: ret = "adc_decoder_api"; break;
 case K_OBJ_SENSOR_DECODER_API: ret = "sensor_decoder_api"; break;
 #endif
 /* Driver subsystems */
+case K_OBJ_DRIVER_ADC: ret = "adc driver"; break;
 case K_OBJ_DRIVER_GPIO: ret = "gpio driver"; break;
+case K_OBJ_DRIVER_PWM: ret = "pwm driver"; break;
 case K_OBJ_DRIVER_RESET: ret = "reset driver"; break;
+case K_OBJ_DRIVER_RTC: ret = "rtc driver"; break;
 case K_OBJ_DRIVER_SHARED_IRQ: ret = "shared_irq driver"; break;
 case K_OBJ_DRIVER_CRYPTO: ret = "crypto driver"; break;
-case K_OBJ_DRIVER_ADC: ret = "adc driver"; break;
 case K_OBJ_DRIVER_AUXDISPLAY: ret = "auxdisplay driver"; break;
 case K_OBJ_DRIVER_BBRAM: ret = "bbram driver"; break;
 case K_OBJ_DRIVER_BIOMETRIC: ret = "biometric driver"; break;
@@ -99,11 +101,9 @@ case K_OBJ_DRIVER_OTP: ret = "otp driver"; break;
 case K_OBJ_DRIVER_PECI: ret = "peci driver"; break;
 case K_OBJ_DRIVER_PS2: ret = "ps2 driver"; break;
 case K_OBJ_DRIVER_PTP_CLOCK: ret = "ptp_clock driver"; break;
-case K_OBJ_DRIVER_PWM: ret = "pwm driver"; break;
 case K_OBJ_DRIVER_REGULATOR_PARENT: ret = "regulator_parent driver"; break;
 case K_OBJ_DRIVER_REGULATOR: ret = "regulator driver"; break;
 case K_OBJ_DRIVER_RETAINED_MEM: ret = "retained_mem driver"; break;
-case K_OBJ_DRIVER_RTC: ret = "rtc driver"; break;
 case K_OBJ_DRIVER_SDHC: ret = "sdhc driver"; break;
 case K_OBJ_DRIVER_SENSOR: ret = "sensor driver"; break;
 case K_OBJ_DRIVER_SMBUS: ret = "smbus driver"; break;

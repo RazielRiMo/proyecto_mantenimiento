@@ -13,6 +13,7 @@ cmake:
      - 'C:/zephyr/zephyrproject/deps/zephyr/dts/bindings'
     files:
      - 'C:/zephyr/zephyrproject/deps/zephyr/boards/st/nucleo_f401re/nucleo_f401re.dts'
+     - 'C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/Sensores_y_Actuadores/app.overlay'
     include-dirs:
      - 'C:/zephyr/zephyrproject/deps/modules/hal/stm32/dts'
      - 'C:/zephyr/zephyrproject/deps/zephyr/include'
@@ -29,6 +30,8 @@ cmake:
      - 'C:/zephyr/zephyrproject/deps/zephyr/dts/arm'
      - 'C:/zephyr/zephyrproject/deps/zephyr/dts/arc'
      - 'C:/zephyr/zephyrproject/deps/zephyr/dts'
+    user-files:
+     - 'C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/Sensores_y_Actuadores/app.overlay'
   kconfig:
     files:
      - 'C:/zephyr/zephyrproject/deps/zephyr/boards/st/nucleo_f401re/nucleo_f401re_defconfig'
@@ -43,6 +46,6 @@ cmake:
     zephyr-base: 'C:/zephyr/zephyrproject/deps/zephyr'
 version: '0.1.0'
 west:
-  command: 'C:\Users\razie\.zinstaller\.venv\Scripts\west build --pristine never --board nucleo_f401re --build-dir c:\Users\razie\OneDrive\Escritorio\proyecto_mantenimiento\Sensores_y_Actuadores\build\primary --source-dir c:\Users\razie\OneDrive\Escritorio\proyecto_mantenimiento\Sensores_y_Actuadores'
+  command: 'C:\Users\razie\.zinstaller\.venv\Scripts\west build --pristine always --cmake --board nucleo_f401re --build-dir c:\Users\razie\OneDrive\Escritorio\proyecto_mantenimiento\Sensores_y_Actuadores\build\primary --source-dir c:\Users\razie\OneDrive\Escritorio\proyecto_mantenimiento\Sensores_y_Actuadores'
   topdir: 'c:\zephyr\zephyrproject'
   version: '1.5.0'

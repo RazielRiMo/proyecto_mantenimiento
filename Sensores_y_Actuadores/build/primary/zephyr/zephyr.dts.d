@@ -35,4 +35,6 @@ empty_file.o: C:/zephyr/zephyrproject/deps/zephyr/misc/empty_file.c \
  C:/zephyr/zephyrproject/deps/zephyr/include/zephyr/dt-bindings/gpio/arduino-header-r3.h \
  C:/zephyr/zephyrproject/deps/zephyr/boards/st/nucleo_f401re/st_morpho_connector.dtsi \
  C:/zephyr/zephyrproject/deps/zephyr/include/zephyr/dt-bindings/gpio/st-morpho-header.h \
- C:/zephyr/zephyrproject/deps/zephyr/include/zephyr/dt-bindings/input/input-event-codes.h
+ C:/zephyr/zephyrproject/deps/zephyr/include/zephyr/dt-bindings/input/input-event-codes.h \
+ C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/Sensores_y_Actuadores/app.overlay \
+ C:/zephyr/zephyrproject/deps/zephyr/include/zephyr/dt-bindings/timer/stm32-timer.h
