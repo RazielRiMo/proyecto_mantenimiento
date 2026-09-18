@@ -1,6 +1,6 @@
 west:
-  command: C:\Users\razie\.zinstaller\.venv\Scripts\west build --pristine never --board
-    nucleo_f401re --build-dir c:\Users\razie\OneDrive\Escritorio\proyecto_mantenimiento\Sensores_y_Actuadores\build\primary
+  command: C:\Users\razie\.zinstaller\.venv\Scripts\west build --pristine always --cmake
+    --board nucleo_f401re --build-dir c:\Users\razie\OneDrive\Escritorio\proyecto_mantenimiento\Sensores_y_Actuadores\build\primary
     --source-dir c:\Users\razie\OneDrive\Escritorio\proyecto_mantenimiento\Sensores_y_Actuadores
   topdir: c:\zephyr\zephyrproject
   version: 1.5.0

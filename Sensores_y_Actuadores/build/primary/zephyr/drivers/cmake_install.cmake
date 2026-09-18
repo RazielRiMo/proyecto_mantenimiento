@@ -74,6 +74,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+  include("C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/Sensores_y_Actuadores/build/primary/zephyr/drivers/adc/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
   include("C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/Sensores_y_Actuadores/build/primary/zephyr/drivers/clock_control/cmake_install.cmake")
 endif()
 
@@ -94,7 +99,17 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+  include("C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/Sensores_y_Actuadores/build/primary/zephyr/drivers/pwm/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
   include("C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/Sensores_y_Actuadores/build/primary/zephyr/drivers/reset/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/Sensores_y_Actuadores/build/primary/zephyr/drivers/rtc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)

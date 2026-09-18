@@ -1,0 +1,62 @@
+#include <zephyr/dt-bindings/pinctrl/stm32-pinctrl.h>
+#include <zephyr/dt-bindings/timer/stm32-timer.h>
+#include <zephyr/dt-bindings/gpio/gpio.h>
+#include <zephyr/dt-bindings/pwm/pwm.h>
+#include <zephyr/dt-bindings/adc/adc.h>
+/{
+	zephyr,user{
+
+		//definicion de la lectura de voltaje para el aclerometro analogo
+		io-channels = <&adc1 0>, <&adc1 1>;
+		io-channels-names = "acelerometro_positivo","acelerometro_negativo";
+	};
+
+	servo_direccion_pwm{
+		compatible = "pwm-leds";
+		servo: out-pwm {
+			pwms = <&pwm1 1 PWM_MSEC(20) PWM_POLARITY_NORMAL>;
+		};
+	};
+};
+
+&timers1 {
+	status = "okay";
+	st,prescaler = <83>;
+	pwm1: pwm{
+		status = "okay";
+		pinctrl-0 = <&tim1_ch1_pa8>;
+		pinctrl-names = "default";
+	};
+};
+
+&usart1{
+	status = "okay";
+	current-speed = <9600>;
+};
+
+&adc1 {
+	#address-cells = <1>;
+	#size-cells = <0>;
+    	pinctrl-names = "default";
+    	pinctrl-0 = <&analog_pa0 &analog_pa1>;
+    	status = "okay";
+	channel@0{
+		reg = <0>;
+		zephyr,gain = "ADC_GAIN_1";
+		zephyr,reference = "ADC_REF_INTERNAL";
+		zephyr,vref-mv = <3300>;
+		zephyr,acquisition-time = <ADC_ACQ_TIME_DEFAULT>;
+		zephyr,resolution = <12>;
+	};
+	channel@1{
+		reg = <1>;
+
+		zephyr,gain = "ADC_GAIN_1";
+		zephyr,reference = "ADC_REF_INTERNAL";
+		zephyr,vref-mv = <3300>;
+		zephyr,acquisition-time = <ADC_ACQ_TIME_DEFAULT>;
+		zephyr,resolution = <12>;
+	};
+
+
+};

@@ -14,6 +14,10 @@ static void * const no_syscall_impl Z_GENERIC_SECTION(llext_no_syscall_impl);
  * linker outside this file will be exported as NULL and simply fail when
  * an extension requiring them is loaded.
  */
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_adc_channel_setup;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_adc_get_decoder;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_adc_read;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_adc_read_async;
 extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_device_deinit;
 extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_device_get_binding;
 extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_device_get_by_dt_nodelabel;
@@ -134,10 +138,23 @@ extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_log_filter_set;
 extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_log_frontend_filter_set;
 extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_log_panic;
 extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_log_process;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_pwm_capture_cycles;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_pwm_disable_capture;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_pwm_enable_capture;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_pwm_get_cycles_per_sec;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_pwm_set_cycles;
 extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_reset_line_assert;
 extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_reset_line_deassert;
 extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_reset_line_toggle;
 extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_reset_status;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_rtc_alarm_get_supported_fields;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_rtc_alarm_get_time;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_rtc_alarm_is_pending;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_rtc_alarm_set_time;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_rtc_get_calibration;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_rtc_get_time;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_rtc_set_calibration;
+extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_rtc_set_time;
 extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_sys_clock_getrtoffset;
 extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_sys_clock_hw_cycles_per_sec_runtime_get;
 extern __weak ALIAS_OF(no_syscall_impl) void * const z_impl_sys_clock_nanosleep;
