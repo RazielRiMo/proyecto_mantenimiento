@@ -56,7 +56,7 @@ west:
   projects:
   - path: C:/zephyr/zephyrproject/manifest
     remote: https://github.com/RazielRiMo/zephyr.git
-    revision: 6c9e3817d28028a4427ee19fd120324aa0c23b46
+    revision: 6c9e3817d28028a4427ee19fd120324aa0c23b46-dirty
   - path: C:/zephyr/zephyrproject/deps/zephyr
     remote: https://github.com/zephyrproject-rtos/zephyr
     revision: dccb09599635bdff17633fa7e9dab014b91dce90
@@ -115,7 +115,7 @@ west:
     tags:
     - zephyr_tf-m_v2.2.2
 workspace:
-  dirty: false
+  dirty: true
   extra: false
   'off': false
 zephyr:
