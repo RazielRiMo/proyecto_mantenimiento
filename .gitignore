@@ -6,4 +6,4 @@
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 !*.code-workspace
-.code-workspace
+*.code-workspace
