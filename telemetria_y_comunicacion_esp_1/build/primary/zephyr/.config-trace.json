@@ -11341,10 +11341,10 @@
     "y",
     "bool",
     "y",
-    "default",
+    "assign",
     [
-      "C:\\zephyr\\zephyresp32\\deps\\zephyr\\subsys\\net\\ip\\Kconfig",
-      488
+      "C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/prj.conf",
+      37
     ]
   ],
   [
