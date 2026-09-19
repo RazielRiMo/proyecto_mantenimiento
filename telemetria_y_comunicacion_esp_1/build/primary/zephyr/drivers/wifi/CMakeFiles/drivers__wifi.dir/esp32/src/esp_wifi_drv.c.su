@@ -5,6 +5,7 @@ C:/zephyr/zephyresp32/deps/zephyr/drivers/wifi/esp32/src/esp_wifi_drv.c:343:13:e
 C:/zephyr/zephyresp32/deps/zephyr/drivers/wifi/esp32/src/esp_wifi_drv.c:133:18:eth_esp32_rx	32	static
 C:/zephyr/zephyresp32/deps/zephyr/drivers/wifi/esp32/src/esp_wifi_drv.c:392:13:esp_wifi_handle_ap_disconnect_event	48	static
 C:/zephyr/zephyresp32/deps/zephyr/drivers/wifi/esp32/src/esp_wifi_drv.c:1053:12:esp32_wifi_dev_init	192	static
+C:/zephyr/zephyresp32/deps/zephyr/drivers/wifi/esp32/src/esp_wifi_drv.c:84:13:wifi_event_handler	32	static
 C:/zephyr/zephyresp32/deps/zephyr/drivers/wifi/esp32/src/esp_wifi_drv.c:921:12:esp32_wifi_set_power_save	224	static
 C:/zephyr/zephyresp32/deps/zephyr/drivers/wifi/esp32/src/esp_wifi_drv.c:819:12:esp32_wifi_status	320	static
 C:/zephyr/zephyresp32/deps/zephyr/drivers/wifi/esp32/src/esp_wifi_drv.c:786:12:esp32_wifi_ap_disable	48	static

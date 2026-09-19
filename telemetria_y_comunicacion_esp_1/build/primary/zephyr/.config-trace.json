@@ -268,7 +268,7 @@
     "assign",
     [
       "C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/prj.conf",
-      23
+      24
     ]
   ],
   [
@@ -289,7 +289,7 @@
     "assign",
     [
       "C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/prj.conf",
-      20
+      21
     ]
   ],
   [
@@ -381,7 +381,7 @@
     "assign",
     [
       "C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/prj.conf",
-      32
+      36
     ]
   ],
   [
@@ -6795,7 +6795,7 @@
     "assign",
     [
       "C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/prj.conf",
-      19
+      20
     ]
   ],
   [
@@ -8246,7 +8246,7 @@
     "assign",
     [
       "C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/prj.conf",
-      24
+      25
     ]
   ],
   [
@@ -8305,9 +8305,12 @@
     "CONFIG_ESP32_WIFI_STA_AUTO_DHCPV4",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "y",
+    "default",
+    [
+      "C:\\zephyr\\zephyresp32\\deps\\zephyr\\drivers\\wifi\\esp32\\Kconfig.esp32",
+      58
+    ]
   ],
   [
     "CONFIG_ESP32_WIFI_STA_RECONNECT",
@@ -9524,7 +9527,7 @@
     "assign",
     [
       "C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/prj.conf",
-      36
+      39
     ]
   ],
   [
@@ -10027,7 +10030,7 @@
     "assign",
     [
       "C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/prj.conf",
-      25
+      26
     ]
   ],
   [
@@ -10764,7 +10767,7 @@
     "assign",
     [
       "C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/prj.conf",
-      26
+      27
     ]
   ],
   [
@@ -11158,7 +11161,7 @@
     "assign",
     [
       "C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/prj.conf",
-      27
+      28
     ]
   ],
   [
@@ -11344,7 +11347,7 @@
     "assign",
     [
       "C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/prj.conf",
-      37
+      29
     ]
   ],
   [
@@ -11775,7 +11778,8 @@
     "select",
     [
       "NET_L2_ETHERNET_MGMT && NET_L2_ETHERNET && NETWORKING",
-      "NET_L2_WIFI_MGMT && NETWORKING"
+      "NET_L2_WIFI_MGMT && NETWORKING",
+      "NET_DHCPV4 && NET_IPV4 && NET_UDP && NETWORKING"
     ]
   ],
   [
@@ -11786,7 +11790,8 @@
     "select",
     [
       "NET_L2_ETHERNET_MGMT && NET_L2_ETHERNET && NETWORKING",
-      "NET_L2_WIFI_MGMT && NETWORKING"
+      "NET_L2_WIFI_MGMT && NETWORKING",
+      "NET_DHCPV4 && NET_IPV4 && NET_UDP && NETWORKING"
     ]
   ],
   [
@@ -12218,7 +12223,7 @@
     "assign",
     [
       "C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/prj.conf",
-      28
+      30
     ]
   ],
   [
@@ -12423,9 +12428,99 @@
     "CONFIG_NET_DHCPV4",
     "y",
     "bool",
+    "y",
+    "assign",
+    [
+      "C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/prj.conf",
+      32
+    ]
+  ],
+  [
+    "CONFIG_NET_DHCPV4_LOG_LEVEL",
+    "n",
+    "int",
+    "0",
+    "default",
+    [
+      "C:\\zephyr\\zephyresp32\\deps\\zephyr\\subsys\\net\\Kconfig.template.log_config.net",
+      50
+    ]
+  ],
+  [
+    "CONFIG_NET_DHCPV4_INITIAL_DELAY_MAX",
+    "y",
+    "int",
+    "10",
+    "default",
+    [
+      "C:\\zephyr\\zephyresp32\\deps\\zephyr\\subsys\\net\\lib\\dhcpv4\\Kconfig",
+      25
+    ]
+  ],
+  [
+    "CONFIG_NET_DHCPV4_OPTION_CALLBACKS",
+    "y",
+    "bool",
     null,
     "unset",
     null
+  ],
+  [
+    "CONFIG_NET_DHCPV4_OPTION_CALLBACKS_VENDOR_SPECIFIC",
+    "y",
+    "bool",
+    null,
+    "unset",
+    null
+  ],
+  [
+    "CONFIG_NET_DHCPV4_ACCEPT_UNICAST",
+    "y",
+    "bool",
+    "y",
+    "default",
+    [
+      "C:\\zephyr\\zephyresp32\\deps\\zephyr\\subsys\\net\\lib\\dhcpv4\\Kconfig",
+      57
+    ]
+  ],
+  [
+    "CONFIG_NET_DHCPV4_VENDOR_CLASS_IDENTIFIER",
+    "y",
+    "bool",
+    null,
+    "unset",
+    null
+  ],
+  [
+    "CONFIG_NET_DHCPV4_OPTION_PRINT_IGNORED",
+    "y",
+    "bool",
+    null,
+    "unset",
+    null
+  ],
+  [
+    "CONFIG_NET_DHCPV4_INIT_REBOOT",
+    "y",
+    "bool",
+    "y",
+    "default",
+    [
+      "C:\\zephyr\\zephyresp32\\deps\\zephyr\\subsys\\net\\lib\\dhcpv4\\Kconfig",
+      118
+    ]
+  ],
+  [
+    "CONFIG_NET_DHCPV4_RESTART_ON_IF_UP",
+    "n",
+    "bool",
+    "y",
+    "default",
+    [
+      "C:\\zephyr\\zephyresp32\\deps\\zephyr\\subsys\\net\\lib\\dhcpv4\\Kconfig",
+      127
+    ]
   ],
   [
     "CONFIG_NET_DHCPV4_SERVER",

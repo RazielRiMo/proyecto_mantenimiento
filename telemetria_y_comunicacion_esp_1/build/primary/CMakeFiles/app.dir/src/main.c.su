@@ -1,5 +1,13 @@
-C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/build/primary/zephyr/include/generated/zephyr/syscalls/uart.h:49:19:uart_poll_in	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/drivers/uart/uart_internal.h:460:19:uart_irq_callback_user_data_set	32	static
+C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/build/primary/zephyr/include/generated/zephyr/syscalls/uart.h:243:20:uart_irq_rx_enable	32	static
+C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/build/primary/zephyr/include/generated/zephyr/syscalls/uart.h:362:19:uart_irq_update	32	static
+C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/src/main.c:71:6:net_listener_thread	48	static
+C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/src/main.c:49:13:uart_isr	48	static
+C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/src/main.c:107:6:uart_rx_task	32	static
+C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/src/main.c:121:6:tcp_rx_task	32	static
+C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/src/main.c:130:6:udp_rx_task	32	static
+C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/src/main.c:142:6:uart_tx_task	288	static
 C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/socket.h:496:23:zsock_send	32	static
-C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/src/main.c:36:6:wifi_thread_entry	720	static
-C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/src/main.c:120:6:uart_thread_entry	560	static
-C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/src/main.c:157:5:main	32	static
+C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/src/main.c:153:6:tcp_tx_task	288	static
+C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/src/main.c:164:6:udp_tx_task	288	static
+C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/src/main.c:194:5:main	256	static
