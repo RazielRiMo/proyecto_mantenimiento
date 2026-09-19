@@ -1,0 +1,2 @@
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/drivers/builtin/src/psa_util_internal.c:99:5:psa_generic_status_to_mbedtls	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/drivers/builtin/src/psa_util_internal.c:117:5:psa_status_to_mbedtls	32	static

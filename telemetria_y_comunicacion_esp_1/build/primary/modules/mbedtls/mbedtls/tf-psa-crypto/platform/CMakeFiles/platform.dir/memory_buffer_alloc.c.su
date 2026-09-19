@@ -1,0 +1,8 @@
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/memory_buffer_alloc.c:113:12:verify_header	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/memory_buffer_alloc.c:153:12:verify_chain	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/memory_buffer_alloc.c:362:13:buffer_alloc_free	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/memory_buffer_alloc.c:199:14:buffer_alloc_calloc	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/memory_buffer_alloc.c:485:6:mbedtls_memory_buffer_set_verify	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/memory_buffer_alloc.c:490:5:mbedtls_memory_buffer_alloc_verify	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/memory_buffer_alloc.c:566:6:mbedtls_memory_buffer_alloc_init	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/memory_buffer_alloc.c:602:6:mbedtls_memory_buffer_alloc_free	32	static

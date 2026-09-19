@@ -1,0 +1,10 @@
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_ip.h:990:20:net_ipv4_is_addr_mcast_raw	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_ip.h:1301:20:net_ipv4_is_addr_bcast	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_linkaddr.h:126:19:net_linkaddr_set	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_ip.h:1268:20:net_ipv4_is_addr_bcast_raw	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/icmpv4.c:34:5:net_icmpv4_create	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/icmpv4.c:424:25:icmpv4_handle_echo_request	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/icmpv4.c:52:5:net_icmpv4_finalize	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/icmpv4.c:529:5:net_icmpv4_send_error	64	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/icmpv4.c:626:18:net_icmpv4_input	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/icmpv4.c:789:6:net_icmpv4_init	32	static

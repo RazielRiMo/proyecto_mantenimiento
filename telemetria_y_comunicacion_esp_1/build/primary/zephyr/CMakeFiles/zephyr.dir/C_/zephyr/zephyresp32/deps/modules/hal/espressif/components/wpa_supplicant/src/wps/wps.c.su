@@ -1,0 +1,16 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:275:12:is_selected_pin_registrar	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/include/utils/wpabuf.h:138:20:wpabuf_put_be32	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:39:19:wps_init	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:160:6:wps_deinit	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:207:22:wps_process_msg	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:227:17:wps_get_msg	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:238:5:wps_is_selected_pbc_registrar	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:308:5:wps_is_selected_pin_registrar	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:336:5:wps_is_addr_authorized	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:398:5:wps_ap_priority_compar	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:445:12:wps_get_uuid_e	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:467:5:wps_is_20	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:493:17:wps_build_assoc_req_ie	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:527:17:wps_build_assoc_resp_ie	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:569:17:wps_build_probe_req_ie	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:624:5:wps_attr_text	80	static

@@ -1,0 +1,12 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_common.c:107:33:tls_get_cipher_suite	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_common.c:117:32:tls_get_cipher_data	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_common.c:127:5:tls_server_key_exchange_allowed	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_common.c:163:5:tls_parse_cert	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_common.c:238:6:tls_verify_hash_add	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_common.c:264:6:tls_verify_hash_free	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_common.c:206:5:tls_verify_hash_init	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_common.c:289:5:tls_version_ok	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_common.c:306:14:tls_version_str	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_common.c:321:5:tls_prf	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_common.c:380:5:tls_key_x_server_params_hash	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_common.c:418:5:tls_verify_signature	48	static

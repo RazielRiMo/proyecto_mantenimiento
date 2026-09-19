@@ -1,0 +1,10 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:88:12:wpa_own_rsn_capab	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:381:12:rsnxe_capab	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:126:13:rsne_write_data	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:24:12:wpa_write_wpa_ie	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:324:5:wpa_write_rsn_ie	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:394:5:wpa_write_rsnxe	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:461:5:wpa_auth_gen_wpa_ie	160	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:534:6:wpa_add_kde	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:552:1:wpa_validate_wpa_ie	96	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:846:5:wpa_auth_uses_mfp	32	static

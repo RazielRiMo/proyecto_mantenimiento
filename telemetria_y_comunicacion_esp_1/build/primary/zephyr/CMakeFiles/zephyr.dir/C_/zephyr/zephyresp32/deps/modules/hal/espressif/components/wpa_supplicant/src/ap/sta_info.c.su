@@ -1,0 +1,11 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/sta_info.c:53:13:ap_sta_list_del	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/sta_info.c:80:13:ap_sta_hash_del	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/sta_info.c:187:13:ap_sta_delayed_1x_auth_fail_cb	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/sta_info.c:26:5:ap_for_each_sta	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/sta_info.c:42:19:ap_get_sta	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/sta_info.c:73:6:ap_sta_hash_add	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/sta_info.c:101:6:ap_free_sta	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/sta_info.c:135:6:hostapd_free_stas	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/sta_info.c:151:19:ap_sta_add	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/sta_info.c:201:6:ap_sta_delayed_1x_auth_fail_disconnect	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/sta_info.c:221:5:ap_sta_pending_delayed_1x_auth_fail_disconnect	32	static

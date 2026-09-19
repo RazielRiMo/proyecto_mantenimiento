@@ -1,0 +1,16 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:256:13:timeout_exists	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:269:13:eloop_remove_blocking_timeout	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:62:13:eloop_run_timer	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:281:13:eloop_remove_timeout	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/kernel.h:702:23:k_msleep	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:73:5:eloop_init	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:97:5:eloop_register_timeout	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:180:5:eloop_register_timeout_blocking	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:300:5:eloop_cancel_timeout	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:326:5:eloop_cancel_timeout_one	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:353:5:eloop_is_timeout_registered	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:369:5:eloop_deplete_timeout	96	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:400:5:eloop_replenish_timeout	96	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:431:6:eloop_run	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:56:12:eloop_run_wrapper	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:500:6:eloop_destroy	32	static

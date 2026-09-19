@@ -1,0 +1,2 @@
+C:/zephyr/zephyresp32/deps/zephyr/lib/libc/picolibc/cbprintf.c:15:12:cbputc	32	static
+C:/zephyr/zephyresp32/deps/zephyr/lib/libc/picolibc/cbprintf.c:23:5:cbvprintf	80	static

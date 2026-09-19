@@ -1,0 +1,2 @@
+C:/zephyr/zephyresp32/deps/zephyr/drivers/timer/sys_clock_init.c:21:13:sys_clock_set_timeout	32	static
+C:/zephyr/zephyresp32/deps/zephyr/drivers/timer/sys_clock_init.c:25:13:sys_clock_idle_exit	32	static

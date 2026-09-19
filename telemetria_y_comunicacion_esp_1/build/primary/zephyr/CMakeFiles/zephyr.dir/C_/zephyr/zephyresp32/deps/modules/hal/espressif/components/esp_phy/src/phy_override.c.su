@@ -1,0 +1,9 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_override.c:26:6:include_esp_phy_override	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_override.c:34:6:set_xpd_sar	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_override.c:50:16:phy_i2c_enter_critical	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_override.c:55:16:phy_i2c_exit_critical	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_override.c:60:6:phy_set_pwdet_power	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_override.c:77:17:phy_set_tsens_power	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_override.c:94:9:phy_get_tsens_value	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_override.c:110:6:esp_phy_efuse_get_mac	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_override.c:115:10:esp_phy_efuse_get_chip_ver_pkg	32	static

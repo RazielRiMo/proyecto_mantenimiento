@@ -1,0 +1,3 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/dh_groups.c:1175:25:dh_groups_get	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/dh_groups.c:1193:17:dh_init	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/dh_groups.c:1249:17:dh_derive_shared	64	static

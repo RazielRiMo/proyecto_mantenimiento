@@ -1,0 +1,50 @@
+cmake:
+  application:
+    configuration-dir: 'C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1'
+    source-dir: 'C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1'
+  board:
+    name: 'esp32_devkitc'
+    path:
+     - 'C:/zephyr/zephyresp32/deps/zephyr/boards/espressif/esp32_devkitc'
+    qualifiers: 'esp32/procpu'
+    revision: ''
+  devicetree:
+    bindings-dirs:
+     - 'C:/zephyr/zephyresp32/deps/zephyr/dts/bindings'
+    files:
+     - 'C:/zephyr/zephyresp32/deps/zephyr/boards/espressif/esp32_devkitc/esp32_devkitc_procpu.dts'
+     - 'C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/app.overlay'
+    include-dirs:
+     - 'C:/zephyr/zephyresp32/deps/zephyr/include'
+     - 'C:/zephyr/zephyresp32/deps/zephyr/include/zephyr'
+     - 'C:/zephyr/zephyresp32/deps/zephyr/dts/common'
+     - 'C:/zephyr/zephyresp32/deps/zephyr/dts/vendor'
+     - 'C:/zephyr/zephyresp32/deps/zephyr/dts/rx'
+     - 'C:/zephyr/zephyresp32/deps/zephyr/dts/x86'
+     - 'C:/zephyr/zephyresp32/deps/zephyr/dts/xtensa'
+     - 'C:/zephyr/zephyresp32/deps/zephyr/dts/sparc'
+     - 'C:/zephyr/zephyresp32/deps/zephyr/dts/riscv'
+     - 'C:/zephyr/zephyresp32/deps/zephyr/dts/posix'
+     - 'C:/zephyr/zephyresp32/deps/zephyr/dts/arm64'
+     - 'C:/zephyr/zephyresp32/deps/zephyr/dts/arm'
+     - 'C:/zephyr/zephyresp32/deps/zephyr/dts/arc'
+     - 'C:/zephyr/zephyresp32/deps/zephyr/dts'
+    user-files:
+     - 'C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/app.overlay'
+  kconfig:
+    files:
+     - 'C:/zephyr/zephyresp32/deps/zephyr/boards/espressif/esp32_devkitc/esp32_devkitc_procpu_defconfig'
+     - 'C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/prj.conf'
+    user-files:
+     - 'C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/telemetria_y_comunicacion_esp_1/prj.conf'
+  toolchain:
+    name: 'zephyr'
+    path: 'C:/Users/razie/zephyr-sdk-1.0.1'
+  zephyr:
+    version: '4.4.2'
+    zephyr-base: 'C:/zephyr/zephyresp32/deps/zephyr'
+version: '0.1.0'
+west:
+  command: 'C:\Users\razie\.zinstaller\.venv\Scripts\west build --pristine never --board esp32_devkitc/esp32/procpu --build-dir c:\Users\razie\OneDrive\Escritorio\proyecto_mantenimiento\telemetria_y_comunicacion_esp_1\build\primary --source-dir c:\Users\razie\OneDrive\Escritorio\proyecto_mantenimiento\telemetria_y_comunicacion_esp_1'
+  topdir: 'c:\zephyr\zephyresp32'
+  version: '1.5.0'

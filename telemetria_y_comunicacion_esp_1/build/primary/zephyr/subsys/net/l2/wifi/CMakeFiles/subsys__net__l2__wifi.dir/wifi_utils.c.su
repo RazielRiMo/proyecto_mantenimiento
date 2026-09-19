@@ -1,0 +1,11 @@
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/wifi/wifi_utils.c:219:12:wifi_utils_validate_chan_str	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/wifi/wifi_utils.c:32:34:wifi_utils_map_band_str_to_idx	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/wifi/wifi_utils.c:48:6:wifi_utils_validate_chan_2g	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/wifi/wifi_utils.c:58:6:wifi_utils_validate_chan_5g	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/wifi/wifi_utils.c:72:6:wifi_utils_validate_chan_6g	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/wifi/wifi_utils.c:83:6:wifi_utils_validate_chan	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/wifi/wifi_utils.c:113:10:wifi_utils_get_next_chan_6g	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/wifi/wifi_utils.c:124:12:wifi_utils_get_all_chans_in_range	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/wifi/wifi_utils.c:239:5:wifi_utils_parse_scan_bands	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/wifi/wifi_utils.c:282:5:wifi_utils_parse_scan_ssids	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/wifi/wifi_utils.c:314:5:wifi_utils_parse_scan_chan	80	static

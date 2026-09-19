@@ -1,0 +1,10 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/crypto_internal-rsa.c:22:28:crypto_public_key_import	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/crypto_internal-rsa.c:30:1:crypto_public_key_import_parts	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/crypto_internal-rsa.c:38:29:crypto_private_key_import	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/crypto_internal-rsa.c:64:28:crypto_public_key_from_cert	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/crypto_internal-rsa.c:72:5:crypto_public_key_encrypt_pkcs1_v15	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/crypto_internal-rsa.c:81:5:crypto_private_key_decrypt_pkcs1_v15	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/crypto_internal-rsa.c:90:5:crypto_private_key_sign_pkcs1	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/crypto_internal-rsa.c:99:6:crypto_public_key_free	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/crypto_internal-rsa.c:105:6:crypto_private_key_free	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/crypto_internal-rsa.c:111:5:crypto_public_key_decrypt_pkcs1	32	static

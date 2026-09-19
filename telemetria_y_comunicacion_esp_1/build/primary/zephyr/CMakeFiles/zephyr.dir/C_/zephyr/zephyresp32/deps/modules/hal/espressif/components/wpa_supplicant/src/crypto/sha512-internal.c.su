@@ -1,0 +1,7 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/common.h:188:19:WPA_GET_BE64	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/common.h:196:20:WPA_PUT_BE64	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha512-internal.c:110:12:sha512_compress	144	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha512-internal.c:164:6:sha512_init	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha512-internal.c:186:5:sha512_process	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha512-internal.c:226:5:sha512_done	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha512-internal.c:24:5:sha512_vector	240	static

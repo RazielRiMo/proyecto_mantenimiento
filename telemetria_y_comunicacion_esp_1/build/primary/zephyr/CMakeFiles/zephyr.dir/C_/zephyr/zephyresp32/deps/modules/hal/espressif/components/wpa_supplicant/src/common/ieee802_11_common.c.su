@@ -1,0 +1,11 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/include/utils/wpabuf.h:144:20:wpabuf_put_data	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:27:12:get_ie	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:40:5:ieee802_11_ie_count	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:56:12:get_vendor_ie	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:70:8:mbo_add_ie	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:93:5:ieee802_11_parse_candidate_list	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:358:17:ieee802_11_vendor_ie_concat	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:391:5:ieee802_11_ext_capab	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:422:6:ieee802_11_rsnx_capab_len	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:444:6:ieee802_11_rsnx_capab	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:454:4:get_operating_class	32	static

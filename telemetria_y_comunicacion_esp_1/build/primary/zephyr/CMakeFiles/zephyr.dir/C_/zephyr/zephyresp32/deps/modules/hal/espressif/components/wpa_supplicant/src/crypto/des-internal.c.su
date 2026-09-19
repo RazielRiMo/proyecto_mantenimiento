@@ -1,0 +1,10 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:318:13:desfunc	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:249:13:cookey	160	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:273:13:deskey	272	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:399:5:des_encrypt	176	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:428:6:des_key_setup	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:435:6:des_block_encrypt	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:446:6:des_block_decrypt	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:457:6:des3_key_setup	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:469:6:des3_encrypt	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:483:6:des3_decrypt	48	static

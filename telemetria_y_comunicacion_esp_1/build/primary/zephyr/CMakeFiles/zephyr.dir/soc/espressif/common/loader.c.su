@@ -1,0 +1,2 @@
+C:/zephyr/zephyresp32/deps/zephyr/soc/espressif/common/loader.c:119:6:map_rom_segments	80	static
+C:/zephyr/zephyresp32/deps/zephyr/soc/espressif/common/loader.c:277:6:__start	32	static

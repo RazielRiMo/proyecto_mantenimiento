@@ -1,0 +1,16 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:30:12:tls_version_disabled	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:41:12:tls_process_server_hello_extensions	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:645:21:count_bits	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:1188:12:tls_process_server_hello_done	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:1124:12:tls_process_certificate_request	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:81:12:tls_process_server_hello	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:282:13:tls_peer_cert_event	272	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:805:1:tls_process_certificate_status_ocsp_response	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:829:12:tls_process_certificate_status	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:669:12:tlsv1_process_diffie_hellman	144	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:1027:12:tls_process_server_key_exchange	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:359:12:tls_process_certificate	288	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:1254:12:tls_process_server_change_cipher_spec	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:1325:12:tls_process_server_finished	112	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:1458:12:tls_process_application_data	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:1489:5:tlsv1_client_process_handshake	32	static

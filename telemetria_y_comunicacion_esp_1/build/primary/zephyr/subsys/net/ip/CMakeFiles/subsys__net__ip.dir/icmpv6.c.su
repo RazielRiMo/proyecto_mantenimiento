@@ -1,0 +1,10 @@
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_ip.h:1363:20:net_ipv6_is_addr_unspecified_raw	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_pkt.h:2541:19:net_pkt_write_be32	48	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_linkaddr.h:209:19:net_linkaddr_clear	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/icmpv6.c:29:13:net_icmpv6_type2str	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/icmpv6.c:63:5:net_icmpv6_finalize	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/icmpv6.c:92:5:net_icmpv6_create	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/icmpv6.c:110:25:icmpv6_handle_echo_request	96	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/icmpv6.c:209:5:net_icmpv6_send_error	96	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/icmpv6.c:373:18:net_icmpv6_input	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/icmpv6.c:424:6:net_icmpv6_init	32	static

@@ -1,0 +1,5 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/pkcs1.c:18:12:pkcs1_generate_encryption_block	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/pkcs1.c:81:5:pkcs1_encrypt	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/pkcs1.c:97:5:pkcs1_v15_private_key_decrypt	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/pkcs1.c:134:5:pkcs1_decrypt_public_key	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/pkcs1.c:200:5:pkcs1_v15_sig_ver	368	static

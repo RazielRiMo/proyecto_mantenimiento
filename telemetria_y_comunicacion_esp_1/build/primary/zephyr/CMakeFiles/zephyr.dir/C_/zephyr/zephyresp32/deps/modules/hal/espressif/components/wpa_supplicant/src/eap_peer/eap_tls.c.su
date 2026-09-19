@@ -1,0 +1,9 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_tls.c:270:13:eap_tls_isKeyAvailable	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_tls.c:276:13:eap_tls_getKey	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_tls.c:86:24:eap_tls_failure	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_tls.c:64:13:eap_tls_free_key	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_tls.c:122:13:eap_tls_success	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_tls.c:181:24:eap_tls_process	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_tls.c:73:13:eap_tls_deinit	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_tls.c:35:15:eap_tls_init	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_tls.c:294:5:eap_peer_tls_register	32	static

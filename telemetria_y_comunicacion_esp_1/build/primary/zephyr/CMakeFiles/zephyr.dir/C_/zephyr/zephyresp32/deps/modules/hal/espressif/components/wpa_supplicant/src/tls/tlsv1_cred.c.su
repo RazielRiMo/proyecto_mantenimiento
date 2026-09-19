@@ -1,0 +1,15 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_cred.c:45:12:tlsv1_add_cert_der	160	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_cred.c:90:19:search_tag	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_cred.c:107:12:tlsv1_add_cert	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_cred.c:157:12:tlsv1_set_cert_chain	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_cred.c:266:36:tlsv1_set_key_pem	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_cred.c:305:36:tlsv1_set_key_enc_pem	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_cred.c:1006:12:tlsv1_set_key	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_cred.c:1071:12:tlsv1_set_dhparams_der	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_cred.c:1136:12:tlsv1_set_dhparams_blob	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_cred.c:21:28:tlsv1_cred_alloc	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_cred.c:29:6:tlsv1_cred_free	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_cred.c:194:5:tlsv1_set_ca_cert	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_cred.c:258:5:tlsv1_set_cert	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_cred.c:1036:5:tlsv1_set_private_key	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_cred.c:1188:5:tlsv1_set_dhparams	32	static

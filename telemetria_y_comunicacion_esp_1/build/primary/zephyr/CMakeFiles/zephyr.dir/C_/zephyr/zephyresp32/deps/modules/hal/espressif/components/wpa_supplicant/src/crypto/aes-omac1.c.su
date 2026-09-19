@@ -1,0 +1,5 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-omac1.c:16:13:gf_mulx	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-omac1.c:43:5:omac1_aes_vector	80	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-omac1.c:133:5:omac1_aes_128_vector	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-omac1.c:152:5:omac1_aes_128	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-omac1.c:170:5:omac1_aes_256	48	static

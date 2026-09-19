@@ -11,6 +11,14 @@
 		{
 			"name": "zephyrproject",
 			"path": "../../../../../zephyr/zephyrproject"
+		},
+		{
+			"name": "zephyresp32",
+			"path": "../../../../../zephyr/zephyresp32"
+		},
+		{
+			"name": "telemetria_y_comunicacion_esp_1",
+			"path": "telemetria_y_comunicacion_esp_1"
 		}
 	],
 	"settings": {

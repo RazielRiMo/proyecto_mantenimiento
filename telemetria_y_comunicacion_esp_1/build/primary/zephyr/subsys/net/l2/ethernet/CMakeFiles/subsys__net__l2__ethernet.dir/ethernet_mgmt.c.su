@@ -1,0 +1,11 @@
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/ethernet/ethernet_mgmt.c:16:20:is_hw_caps_supported	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/sys/atomic.h:129:20:atomic_test_bit	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_if.h:895:20:net_if_flag_is_set	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_if.h:3116:20:net_if_is_up	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_ip.h:1823:20:net_ipv6_addr_create_iid	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/ethernet/ethernet_mgmt.c:28:12:ethernet_set_config	128	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/ethernet/ethernet_mgmt.c:221:12:ethernet_get_config	112	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/ethernet/ethernet_mgmt.c:455:6:ethernet_mgmt_raise_carrier_on_event	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/ethernet/ethernet_mgmt.c:460:6:ethernet_mgmt_raise_carrier_off_event	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/ethernet/ethernet_mgmt.c:465:6:ethernet_mgmt_raise_vlan_enabled_event	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/l2/ethernet/ethernet_mgmt.c:476:6:ethernet_mgmt_raise_vlan_disabled_event	48	static

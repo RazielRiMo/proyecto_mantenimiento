@@ -1,0 +1,11 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:41:13:authmode_has_wpa	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:46:13:authmode_has_rsn	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:37:22:hostapd_get_hapd_data	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:54:7:hostap_init	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:264:6:hostapd_cleanup	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:305:6:hostap_deinit	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:332:5:esp_wifi_build_rsnxe	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:361:5:esp_send_assoc_resp	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:397:9:wpa_status_to_reason_code	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:419:6:hostap_new_assoc_sta	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:517:6:wpa_ap_remove	32	static

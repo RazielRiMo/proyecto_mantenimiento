@@ -1,0 +1,17 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:252:20:phy_update_wifi_mac_time	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:229:20:phy_enter_critical	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:237:16:phy_exit_critical	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:247:9:esp_phy_rf_get_on_ts	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:271:16:esp_phy_common_clock_enable	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:276:16:esp_phy_common_clock_disable	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:375:6:esp_phy_disable	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:415:16:esp_wifi_bt_power_domain_on	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:439:6:esp_wifi_bt_power_domain_off	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:453:6:esp_phy_modem_init	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:470:6:esp_phy_modem_deinit	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:672:28:esp_phy_get_init_data	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:678:6:esp_phy_release_init_data	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:852:6:esp_phy_load_cal_and_init	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:310:6:esp_phy_enable	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:1163:11:esp_phy_update_country_info	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/phy_init.c:1196:17:phy_get_lock	32	static

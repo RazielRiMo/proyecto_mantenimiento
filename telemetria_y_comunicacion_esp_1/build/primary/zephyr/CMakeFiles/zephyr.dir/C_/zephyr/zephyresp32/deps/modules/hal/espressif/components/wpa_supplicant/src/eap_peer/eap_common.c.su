@@ -1,0 +1,8 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/include/utils/wpabuf.h:132:20:wpabuf_put_be24	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/include/utils/wpabuf.h:138:20:wpabuf_put_be32	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_common.c:25:5:eap_hdr_len_valid	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_common.c:66:12:eap_hdr_validate	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_common.c:128:17:eap_msg_alloc	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_common.c:167:6:eap_update_len	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_common.c:182:4:eap_get_id	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_common.c:199:9:eap_get_type	32	static

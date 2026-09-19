@@ -18,4 +18,3 @@
 #include <zephyr/device.h>
 #include <inttypes.h>
 #include <zephyr/data/json.h>
-

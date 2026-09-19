@@ -1,0 +1,2 @@
+C:/zephyr/zephyresp32/deps/zephyr/modules/mbedtls/zephyr_entropy.c:16:12:get_random_data	32	static
+C:/zephyr/zephyresp32/deps/zephyr/modules/mbedtls/zephyr_entropy.c:59:14:mbedtls_psa_external_get_random	32	static

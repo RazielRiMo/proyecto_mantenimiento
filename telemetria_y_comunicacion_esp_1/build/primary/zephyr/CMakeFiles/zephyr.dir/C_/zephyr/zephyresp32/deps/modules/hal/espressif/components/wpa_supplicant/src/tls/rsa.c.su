@@ -1,0 +1,7 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/rsa.c:31:19:crypto_rsa_parse_integer	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/rsa.c:240:8:crypto_rsa_get_modulus_len	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/rsa.c:256:5:crypto_rsa_exptmod	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/rsa.c:353:6:crypto_rsa_free	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/rsa.c:61:1:crypto_rsa_import_public_key	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/rsa.c:115:1:crypto_rsa_import_public_key_parts	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/rsa.c:144:1:crypto_rsa_import_private_key	48	static
