@@ -1,0 +1,3 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/uuid.c:14:5:uuid_str2bin	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/uuid.c:49:5:uuid_bin2str	112	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/uuid.c:64:5:is_nil_uuid	32	static

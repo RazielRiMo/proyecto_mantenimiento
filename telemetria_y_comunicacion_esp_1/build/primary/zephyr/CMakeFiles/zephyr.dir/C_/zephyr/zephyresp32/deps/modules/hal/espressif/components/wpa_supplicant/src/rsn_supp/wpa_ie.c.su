@@ -1,0 +1,5 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/rsn_supp/wpa_ie.c:123:12:wpa_gen_wpa_ie_rsn	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/rsn_supp/wpa_ie.c:58:13:wpa_gen_wpa_ie_wpa	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/rsn_supp/wpa_ie.c:33:6:wpa_parse_wpa_ie	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/rsn_supp/wpa_ie.c:290:6:wpa_gen_wpa_ie	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/rsn_supp/wpa_ie.c:309:5:wpa_gen_rsnxe	32	static

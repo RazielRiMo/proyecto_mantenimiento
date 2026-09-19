@@ -1,0 +1,2 @@
+C:/zephyr/zephyresp32/deps/zephyr/lib/utils/getopt/getopt.c:43:6:sys_getopt_init	32	static
+C:/zephyr/zephyresp32/deps/zephyr/lib/utils/getopt/getopt.c:73:5:sys_getopt	32	static

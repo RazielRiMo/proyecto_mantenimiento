@@ -1,0 +1,7 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_ocsp.c:34:12:is_oid_basic_ocsp_resp	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_ocsp.c:50:12:ocsp_responder_id_match	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_ocsp.c:67:21:ocsp_hash_data	144	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_ocsp.c:110:12:tls_process_ocsp_single_response	240	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_ocsp.c:311:1:tls_process_ocsp_responses	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_ocsp.c:344:1:tls_process_basic_ocsp_response	560	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_ocsp.c:648:22:tls_process_ocsp_response	352	static

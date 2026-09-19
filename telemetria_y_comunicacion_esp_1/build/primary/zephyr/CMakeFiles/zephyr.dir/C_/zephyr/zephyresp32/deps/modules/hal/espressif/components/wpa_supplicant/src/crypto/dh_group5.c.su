@@ -1,0 +1,4 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/dh_group5.c:16:8:dh5_init	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/dh_group5.c:26:8:dh5_init_fixed	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/dh_group5.c:32:17:dh5_derive_shared	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/dh_group5.c:39:6:dh5_free	32	static

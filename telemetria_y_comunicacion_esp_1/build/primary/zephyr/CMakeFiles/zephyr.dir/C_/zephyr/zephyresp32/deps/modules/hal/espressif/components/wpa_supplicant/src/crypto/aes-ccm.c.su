@@ -1,0 +1,9 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-ccm.c:18:13:xor_aes_block	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-ccm.c:85:13:aes_ccm_encr_start	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-ccm.c:29:13:aes_ccm_auth_start	96	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-ccm.c:65:13:aes_ccm_auth	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-ccm.c:93:13:aes_ccm_encr	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-ccm.c:118:13:aes_ccm_encr_auth	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-ccm.c:133:13:aes_ccm_decr_auth	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-ccm.c:149:5:aes_ccm_ae	96	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-ccm.c:179:5:aes_ccm_ad	112	static

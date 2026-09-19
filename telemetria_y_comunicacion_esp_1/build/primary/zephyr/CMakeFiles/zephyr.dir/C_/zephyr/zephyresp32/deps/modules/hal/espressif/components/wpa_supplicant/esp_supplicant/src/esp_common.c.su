@@ -1,0 +1,17 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:207:12:ieee80211_handle_rx_frm	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:29:11:esp_supplicant_str_to_mac	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:199:6:esp_supplicant_unset_all_appie	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:305:6:esp_supplicant_common_deinit	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:272:5:esp_supplicant_common_init	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:322:6:supplicant_sta_conn_handler	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:356:6:supplicant_sta_disconn_handler	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:632:6:wpa_supplicant_connect	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:740:6:esp_get_tx_power	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:755:5:wpa_drv_send_action	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:791:6:esp_set_scan_ie	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:792:6:esp_wnm_is_btm_supported_connection	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:796:5:esp_wnm_send_bss_transition_mgmt_query	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:805:6:esp_rrm_is_rrm_supported_connection	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:810:5:esp_rrm_send_neighbor_report_request	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:861:6:esp_set_assoc_ie	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:865:5:map_wifi_config_sae_pwe_to_supp	32	static

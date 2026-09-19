@@ -1,0 +1,2 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/zephyr/port/stubs/wifi_compat_stubs.c:20:28:pm_beacon_offset_funcs_empty_init	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/zephyr/port/stubs/wifi_compat_stubs.c:25:11:esp_event_post	32	static

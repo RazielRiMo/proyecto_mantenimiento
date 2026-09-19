@@ -1,0 +1,4 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/crypto_internal-cipher.c:43:24:crypto_cipher_init	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/crypto_internal-cipher.c:103:5:crypto_cipher_encrypt	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/crypto_internal-cipher.c:166:5:crypto_cipher_decrypt	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/crypto_internal-cipher.c:230:6:crypto_cipher_deinit	32	static

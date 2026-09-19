@@ -1,0 +1,2 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha384-prf.c:54:5:sha384_prf_bits	144	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha384-prf.c:30:5:sha384_prf	48	static

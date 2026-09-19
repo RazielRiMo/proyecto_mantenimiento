@@ -1,0 +1,2 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha1.c:26:5:hmac_sha1_vector	192	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha1.c:104:5:hmac_sha1	48	static

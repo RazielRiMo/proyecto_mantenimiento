@@ -1,0 +1,10 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/include/utils/wpabuf.h:144:20:wpabuf_put_data	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_fast_common.c:19:6:eap_fast_put_tlv_hdr	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_fast_common.c:28:6:eap_fast_put_tlv	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_fast_common.c:36:6:eap_fast_put_tlv_buf	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_fast_common.c:44:17:eap_fast_tlv_eap_payload	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_fast_common.c:68:6:eap_fast_derive_master_secret	112	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_fast_common.c:96:6:eap_fast_derive_key	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_fast_common.c:113:5:eap_fast_derive_eap_msk	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_fast_common.c:130:5:eap_fast_derive_eap_emsk	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/eap_peer/eap_fast_common.c:148:5:eap_fast_parse_tlv	32	static

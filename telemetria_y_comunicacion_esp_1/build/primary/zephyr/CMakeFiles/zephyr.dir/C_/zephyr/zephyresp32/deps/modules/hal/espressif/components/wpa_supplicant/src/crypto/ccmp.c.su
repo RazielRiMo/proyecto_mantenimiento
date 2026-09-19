@@ -1,0 +1,8 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/ccmp.c:19:13:ccmp_aad_nonce	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/ccmp.c:81:13:ccmp_aad_nonce_pv1	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/ccmp.c:139:6:ccmp_decrypt	112	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/ccmp.c:180:6:ccmp_get_pn	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/ccmp.c:191:6:ccmp_encrypt	112	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/ccmp.c:240:6:ccmp_encrypt_pv1	128	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/ccmp.c:282:6:ccmp_256_decrypt	112	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/ccmp.c:317:6:ccmp_256_encrypt	112	static

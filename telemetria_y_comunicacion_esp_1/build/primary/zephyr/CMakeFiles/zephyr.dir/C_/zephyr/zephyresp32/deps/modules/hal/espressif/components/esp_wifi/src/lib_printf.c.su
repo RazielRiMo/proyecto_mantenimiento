@@ -1,0 +1,8 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_wifi/src/lib_printf.c:26:12:lib_printf	128	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_wifi/src/lib_printf.c:45:5:pp_printf	80	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_wifi/src/lib_printf.c:54:5:sc_printf	80	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_wifi/src/lib_printf.c:63:5:core_printf	80	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_wifi/src/lib_printf.c:72:5:net80211_printf	80	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_wifi/src/lib_printf.c:81:5:target_printf	80	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_wifi/src/lib_printf.c:90:5:wapi_printf	80	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_wifi/src/lib_printf.c:99:5:mesh_printf	80	static

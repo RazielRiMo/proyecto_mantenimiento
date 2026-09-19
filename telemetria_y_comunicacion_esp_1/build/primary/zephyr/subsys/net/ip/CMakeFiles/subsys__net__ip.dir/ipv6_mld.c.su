@@ -1,0 +1,14 @@
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_pkt.h:2522:19:net_pkt_write_be16	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6_mld.c:78:12:mld_create_packet	64	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6_mld.c:51:12:mld_create	64	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_core.h:134:19:net_send_data	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6_mld.c:126:12:mld_send	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6_mld.c:338:12:send_mld_report	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/sys/atomic.h:129:20:atomic_test_bit	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_if.h:895:20:net_if_flag_is_set	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6_mld.c:454:25:handle_mld_query	64	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6_mld.c:181:5:net_ipv6_mld_send_single	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6_mld.c:215:5:net_ipv6_mld_rejoin	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6_mld.c:250:5:net_ipv6_mld_join	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6_mld.c:298:5:net_ipv6_mld_leave	80	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6_mld.c:525:6:net_ipv6_mld_init	32	static

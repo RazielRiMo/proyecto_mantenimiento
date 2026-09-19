@@ -1,0 +1,3 @@
+C:/zephyr/zephyresp32/deps/zephyr/modules/mbedtls/zephyr_init.c:41:12:_mbedtls_init	32	static
+C:/zephyr/zephyresp32/deps/zephyr/modules/mbedtls/zephyr_init.c:67:5:mbedtls_init	32	static
+C:/zephyr/zephyresp32/deps/zephyr/modules/mbedtls/zephyr_init.c:73:19:mbedtls_ms_time	32	static

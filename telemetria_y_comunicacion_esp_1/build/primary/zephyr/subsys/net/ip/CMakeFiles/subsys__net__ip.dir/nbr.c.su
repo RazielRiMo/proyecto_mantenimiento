@@ -1,0 +1,10 @@
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_linkaddr.h:126:19:net_linkaddr_set	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/nbr.c:27:6:net_nbr_unref	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/nbr.c:48:17:net_nbr_ref	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/nbr.c:69:17:net_nbr_get	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/nbr.c:86:5:net_nbr_link	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/nbr.c:137:5:net_nbr_unlink	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/nbr.c:161:17:net_nbr_lookup	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/nbr.c:181:22:net_nbr_get_lladdr	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/nbr.c:190:6:net_nbr_clear_table	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/nbr.c:209:6:net_nbr_print	32	static

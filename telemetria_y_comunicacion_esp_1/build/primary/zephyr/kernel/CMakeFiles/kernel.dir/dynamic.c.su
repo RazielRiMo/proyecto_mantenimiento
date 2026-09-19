@@ -1,0 +1,4 @@
+C:/zephyr/zephyresp32/deps/zephyr/kernel/dynamic.c:105:13:dyn_cb	32	static
+C:/zephyr/zephyresp32/deps/zephyr/kernel/dynamic.c:59:26:z_thread_stack_alloc_dyn	32	static
+C:/zephyr/zephyresp32/deps/zephyr/kernel/dynamic.c:75:19:z_impl_k_thread_stack_alloc	32	static
+C:/zephyr/zephyresp32/deps/zephyr/kernel/dynamic.c:116:5:z_impl_k_thread_stack_free	48	static

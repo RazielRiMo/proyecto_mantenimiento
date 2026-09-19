@@ -1,0 +1,2 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-ctr.c:25:5:aes_ctr_encrypt	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-ctr.c:67:5:aes_128_ctr_encrypt	32	static

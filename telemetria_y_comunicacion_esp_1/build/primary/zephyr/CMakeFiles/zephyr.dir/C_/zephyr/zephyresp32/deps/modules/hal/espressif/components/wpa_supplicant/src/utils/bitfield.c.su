@@ -1,0 +1,7 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/bitfield.c:64:12:first_zero	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/bitfield.c:21:19:bitfield_alloc	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/bitfield.c:34:6:bitfield_free	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/bitfield.c:40:6:bitfield_set	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/bitfield.c:48:6:bitfield_clear	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/bitfield.c:56:5:bitfield_is_set	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/bitfield.c:76:5:bitfield_get_first_zero	32	static

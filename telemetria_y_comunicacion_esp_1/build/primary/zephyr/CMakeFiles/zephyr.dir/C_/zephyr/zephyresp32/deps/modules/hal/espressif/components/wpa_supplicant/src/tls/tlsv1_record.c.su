@@ -1,0 +1,5 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_record.c:30:5:tlsv1_record_set_cipher_suite	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_record.c:75:5:tlsv1_record_change_write_cipher	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_record.c:109:5:tlsv1_record_change_read_cipher	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_record.c:150:5:tlsv1_record_send	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_record.c:278:5:tlsv1_record_receive	160	static

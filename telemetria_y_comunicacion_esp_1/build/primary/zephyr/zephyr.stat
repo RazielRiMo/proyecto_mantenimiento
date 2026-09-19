@@ -1,0 +1,114 @@
+ELF Header:
+  Magic:   7f 45 4c 46 01 01 01 00 00 00 00 00 00 00 00 00 
+  Class:                             ELF32
+  Data:                              2's complement, little endian
+  Version:                           1 (current)
+  OS/ABI:                            UNIX - System V
+  ABI Version:                       0
+  Type:                              EXEC (Executable file)
+  Machine:                           Tensilica Xtensa Processor
+  Version:                           0x1
+  Entry point address:               0x400887d0
+  Start of program headers:          52 (bytes into file)
+  Start of section headers:          5773860 (bytes into file)
+  Flags:                             0x300
+  Size of this header:               52 (bytes)
+  Size of program headers:           32 (bytes)
+  Number of program headers:         11
+  Size of section headers:           40 (bytes)
+  Number of section headers:         58
+  Section header string table index: 57
+
+Section Headers:
+  [Nr] Name              Type            Addr     Off    Size   ES Flg Lk Inf Al
+  [ 0]                   NULL            00000000 000000 000000 00      0   0  0
+  [ 1] .rtc.text         PROGBITS        400c0000 091790 000000 00   W  0   0  1
+  [ 2] .rtc.dummy        PROGBITS        3ff80000 091790 000000 00   W  0   0  1
+  [ 3] .rtc.force_fast   PROGBITS        3ff80000 091790 000000 00   W  0   0  1
+  [ 4] .rtc.data         PROGBITS        50000000 091790 000000 00   W  0   0  1
+  [ 5] .rtc_noinit       PROGBITS        50000000 091790 000000 00   W  0   0  1
+  [ 6] .rtc.force_slow   PROGBITS        50000000 000194 000028 00  WA  0   0  4
+  [ 7] .iram0.vectors    PROGBITS        40080000 0001bc 000400 00  AX  0   0  4
+  [ 8] .iram0.text       PROGBITS        40080400 0005bc 00ea0c 00  AX  0   0  4
+  [ 9] .loader.text      PROGBITS        4008ee0c 00efc8 0007d4 00  AX  0   0  4
+  [10] .iram0.text_end   NOBITS          4008f5e0 012ec0 000020 00  WA  0   0  1
+  [11] .iram0.data       PROGBITS        4008f600 091790 000000 00   W  0   0  1
+  [12] .iram0.bss        PROGBITS        4008f600 091790 000000 00   W  0   0  1
+  [13] .dram0.data       PROGBITS        3ffb0000 00f7a0 003720 00  WA  0   0  8
+  [14] .loader.data      PROGBITS        3ffb3720 012ec0 00070c 00   A  0   0  4
+  [15] sw_isr_table      PROGBITS        3ffb3e2c 0135cc 000100 00  WA  0   0  4
+  [16] device_states     PROGBITS        3ffb3f2c 0136cc 000010 00  WA  0   0  1
+  [17] k_mem_slab_area   PROGBITS        3ffb3f3c 0136dc 000054 00  WA  0   0  4
+  [18] k_heap_area       PROGBITS        3ffb3f90 013730 000014 00  WA  0   0  4
+  [19] k_mutex_area      PROGBITS        3ffb3fa4 013744 0000dc 00  WA  0   0  4
+  [20] k_msgq_area       PROGBITS        3ffb4080 013820 0000c0 00  WA  0   0  4
+  [21] k_sem_area        PROGBITS        3ffb4140 0138e0 000048 00  WA  0   0  4
+  [22] net_buf_pool_area PROGBITS        3ffb4188 013928 000058 00  WA  0   0  4
+  [23] net_if_area       PROGBITS        3ffb41e0 013980 000090 00  WA  0   0  8
+  [24] net_if_dev_area   PROGBITS        3ffb4270 013a10 000028 00  WA  0   0  8
+  [25] net_l2_area       PROGBITS        3ffb4298 013a38 000014 00   A  0   0  4
+  [26] .dram0.bss        NOBITS          3ffb42b0 013a50 016648 00  WA  0   0 16
+  [27] .dram0.noinit     NOBITS          3ffe8000 091790 00d368 00  WA  0   0 16
+  [28] .flash.rodat[...] NOBITS          000138b4 013a4c 00c74c 00  WA  0   0  1
+  [29] .flash.rodata     PROGBITS        3f400000 020000 00b130 00   A  0   0 65536
+  [30] .flash.rodata_end PROGBITS        3f40b4f0 02b4f0 004b10 00  WA  0   0 16
+  [31] initlevel         PROGBITS        3f40b130 02b130 000088 00   A  0   0  4
+  [32] device_area       PROGBITS        3f40b1b8 02b1b8 0000c4 00   A  0   0  4
+  [33] _static_thre[...] PROGBITS        3f40b280 02b280 000150 00   A  0   0  8
+  [34] entropy_driv[...] PROGBITS        3f40b3d0 02b3d0 000008 00   A  0   0  4
+  [35] gpio_driver_[...] PROGBITS        3f40b3d8 02b3d8 000024 00   A  0   0  4
+  [36] clock_contro[...] PROGBITS        3f40b3fc 02b3fc 00001c 00   A  0   0  4
+  [37] uart_driver_[...] PROGBITS        3f40b418 02b418 00004c 00   A  0   0  4
+  [38] net_l3_regis[...] PROGBITS        3f40b464 02b464 000030 00   A  0   0  4
+  [39] net_socket_r[...] PROGBITS        3f40b494 02b494 000010 00   A  0   0  4
+  [40] zephyr_dbg_info   PROGBITS        3f40b4a4 02b4a4 000044 00   A  0   0  4
+  [41] .text_dummy       PROGBITS        00030000 091790 000000 00   W  0   0  1
+  [42] .text             PROGBITS        400d0000 030000 061790 00 WAX  0   0 65536
+  [43] .comment          PROGBITS        00000000 091790 00007f 01  MS  0   0  1
+  [44] .debug_aranges    PROGBITS        00000000 091810 0088f8 00      0   0  8
+  [45] .debug_info       PROGBITS        00000000 09a108 1ce179 00      0   0  1
+  [46] .debug_abbrev     PROGBITS        00000000 268281 0316dc 00      0   0  1
+  [47] .debug_line       PROGBITS        00000000 29995d 143747 00      0   0  1
+  [48] .debug_frame      PROGBITS        00000000 3dd0a4 0167c0 00      0   0  4
+  [49] .debug_str        PROGBITS        00000000 3f3864 03e26b 01  MS  0   0  1
+  [50] .debug_loc        PROGBITS        00000000 431acf 0ae265 00      0   0  1
+  [51] .debug_ranges     PROGBITS        00000000 4dfd38 00d250 00      0   0  8
+  [52] .xtensa.info      NOTE            00000000 4ecf88 000038 00      0   0  1
+  [53] .xt.prop          PROGBITS        00000000 4ecfc0 05cb68 00      0   0  1
+  [54] .xt.lit           PROGBITS        00000000 549b28 002950 00      0   0  1
+  [55] .symtab           SYMTAB          00000000 54c478 017880 10     56 1862  4
+  [56] .strtab           STRTAB          00000000 563cf8 01da16 00      0   0  1
+  [57] .shstrtab         STRTAB          00000000 58170e 000316 00      0   0  1
+Key to Flags:
+  W (write), A (alloc), X (execute), M (merge), S (strings), I (info),
+  L (link order), O (extra OS processing required), G (group), T (TLS),
+  C (compressed), x (unknown), o (OS specific), E (exclude),
+  D (mbind), p (processor specific)
+
+Program Headers:
+  Type           Offset   VirtAddr   PhysAddr   FileSiz MemSiz  Flg Align
+  LOAD           0x000194 0x50000000 0x00000000 0x00028 0x00028 RW  0x4
+  LOAD           0x0001bc 0x40080000 0x00000028 0x0f5e0 0x0f5e0 R E 0x4
+  LOAD           0x00f7a0 0x3ffb0000 0x0000f608 0x03720 0x03720 RW  0x8
+  LOAD           0x000000 0x4008f5e0 0x0000f608 0x00000 0x00020 RW  0x1
+  LOAD           0x012ec0 0x3ffb3720 0x00012d28 0x00b8c 0x00b8c RW  0x8
+  LOAD           0x000000 0x000138b4 0x000138b4 0x00000 0x0c74c RW  0x1
+  LOAD           0x000000 0x3ffb42b0 0x000138b4 0x00000 0x16648 RW  0x10
+  LOAD           0x020000 0x3f400000 0x00020000 0x10000 0x10000 RW  0x10000
+  LOAD           0x030000 0x400d0000 0x00030000 0x61790 0x61790 RWE 0x10000
+  LOAD           0x000000 0x3ffe8000 0x3ffe8000 0x00000 0x0d368 RW  0x10
+  GNU_STACK      0x000000 0x00000000 0x00000000 0x00000 0x00000 RW  0x10
+
+ Section to Segment mapping:
+  Segment Sections...
+   00     .rtc.force_slow 
+   01     .iram0.vectors .iram0.text .loader.text 
+   02     .dram0.data 
+   03     .iram0.text_end 
+   04     .loader.data sw_isr_table device_states k_mem_slab_area k_heap_area k_mutex_area k_msgq_area k_sem_area net_buf_pool_area net_if_area net_if_dev_area net_l2_area 
+   05     .flash.rodata_dummy 
+   06     .dram0.bss 
+   07     .flash.rodata .flash.rodata_end initlevel device_area _static_thread_data_area entropy_driver_api_area gpio_driver_api_area clock_control_driver_api_area uart_driver_api_area net_l3_register_area net_socket_register_area zephyr_dbg_info 
+   08     .text 
+   09     .dram0.noinit 
+   10     

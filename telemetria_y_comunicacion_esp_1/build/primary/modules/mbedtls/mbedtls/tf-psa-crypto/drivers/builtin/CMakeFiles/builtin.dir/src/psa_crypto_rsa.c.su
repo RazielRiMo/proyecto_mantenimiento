@@ -1,0 +1,2 @@
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/drivers/builtin/src/psa_crypto_rsa.c:509:14:mbedtls_psa_asymmetric_encrypt	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/drivers/builtin/src/psa_crypto_rsa.c:603:14:mbedtls_psa_asymmetric_decrypt	32	static

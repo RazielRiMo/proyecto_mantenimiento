@@ -1,0 +1,11 @@
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/core/psa_crypto_slot_management.c:193:16:psa_get_key_slots_initialized	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/core/psa_crypto_slot_management.c:361:21:psa_get_and_lock_key_slot_in_memory	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/core/psa_crypto_slot_management.c:406:14:psa_initialize_key_slots	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/core/psa_crypto_slot_management.c:427:6:psa_wipe_all_key_slots	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/core/psa_crypto_slot_management.c:571:14:psa_reserve_free_key_slot	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/core/psa_crypto_slot_management.c:759:14:psa_get_and_lock_key_slot	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/core/psa_crypto_slot_management.c:852:14:psa_unregister_read	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/core/psa_crypto_slot_management.c:886:14:psa_unregister_read_under_mutex	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/core/psa_crypto_slot_management.c:904:14:psa_validate_key_persistence	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/core/psa_crypto_slot_management.c:923:14:psa_purge_key	48	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/core/psa_crypto_slot_management.c:958:6:mbedtls_psa_get_stats	32	static

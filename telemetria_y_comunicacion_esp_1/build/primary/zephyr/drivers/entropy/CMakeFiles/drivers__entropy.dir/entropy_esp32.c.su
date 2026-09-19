@@ -1,0 +1,4 @@
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/drivers/clock_control.h:173:19:clock_control_on	32	static
+C:/zephyr/zephyresp32/deps/zephyr/drivers/entropy/entropy_esp32.c:42:24:entropy_esp32_get_u32	32	static
+C:/zephyr/zephyresp32/deps/zephyr/drivers/entropy/entropy_esp32.c:73:12:entropy_esp32_get_entropy	48	static
+C:/zephyr/zephyresp32/deps/zephyr/drivers/entropy/entropy_esp32.c:91:12:entropy_esp32_init	32	static

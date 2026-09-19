@@ -1,0 +1,2 @@
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/platform_util.c:78:6:mbedtls_platform_zeroize	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/platform_util.c:123:6:mbedtls_zeroize_and_free	32	static

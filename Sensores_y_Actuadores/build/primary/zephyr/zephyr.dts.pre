@@ -2196,7 +2196,7 @@ arduino_spi: &spi1 {};
  };
 };
 
-&usart6{
+&usart1{
  status = "okay";
  current-speed = <9600>;
 };

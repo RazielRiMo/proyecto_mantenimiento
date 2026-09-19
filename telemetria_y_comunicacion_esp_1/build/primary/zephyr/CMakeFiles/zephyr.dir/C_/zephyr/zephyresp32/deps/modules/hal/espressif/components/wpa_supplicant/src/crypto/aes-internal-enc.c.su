@@ -1,0 +1,4 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-internal-enc.c:23:13:rijndaelEncrypt	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-internal-enc.c:98:8:aes_encrypt_init	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-internal-enc.c:119:5:aes_encrypt	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/crypto/aes-internal-enc.c:127:6:aes_encrypt_deinit	32	static

@@ -562,9 +562,12 @@
     "CONFIG_UART_INTERRUPT_DRIVEN",
     "y",
     "bool",
-    null,
-    "unset",
-    null
+    "y",
+    "assign",
+    [
+      "C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/Sensores_y_Actuadores/prj.conf",
+      26
+    ]
   ],
   [
     "CONFIG_GPIO_HOGS",
@@ -6466,6 +6469,17 @@
   ],
   [
     "CONFIG_JSON_LIBRARY",
+    "y",
+    "bool",
+    "y",
+    "assign",
+    [
+      "C:/Users/razie/OneDrive/Escritorio/proyecto_mantenimiento/Sensores_y_Actuadores/prj.conf",
+      24
+    ]
+  ],
+  [
+    "CONFIG_JSON_LIBRARY_FP_SUPPORT",
     "y",
     "bool",
     null,

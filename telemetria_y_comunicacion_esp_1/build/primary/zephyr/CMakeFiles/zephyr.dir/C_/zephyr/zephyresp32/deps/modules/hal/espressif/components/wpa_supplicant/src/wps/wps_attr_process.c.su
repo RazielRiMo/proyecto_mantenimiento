@@ -1,0 +1,12 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_process.c:84:12:wps_process_cred_network_idx	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_process.c:122:12:wps_process_cred_auth_type	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_process.c:139:12:wps_process_cred_encr_type	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_process.c:156:12:wps_process_cred_network_key_idx	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_process.c:99:12:wps_process_cred_ssid	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_process.c:169:12:wps_process_cred_network_key	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_process.c:195:12:wps_process_cred_mac_addr	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_process.c:211:12:wps_workaround_cred_key	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_process.c:16:5:wps_process_authenticator	80	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_process.c:54:5:wps_process_key_wrap_auth	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_process.c:247:5:wps_process_cred	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_process.c:267:5:wps_process_ap_settings	32	static

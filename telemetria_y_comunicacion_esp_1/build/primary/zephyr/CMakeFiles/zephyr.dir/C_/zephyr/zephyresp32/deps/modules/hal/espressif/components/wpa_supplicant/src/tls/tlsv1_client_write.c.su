@@ -1,0 +1,13 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:24:15:tls_client_cert_chain_der_len	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:262:12:tls_write_client_certificate	80	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:346:12:tlsv1_key_x_dh	80	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:469:12:tlsv1_key_x_rsa	96	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:516:12:tls_write_client_key_exchange	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:574:12:tls_write_client_certificate_verify	176	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:746:12:tls_write_client_change_cipher_spec	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:779:12:tls_write_client_finished	112	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:870:13:tls_send_client_key_exchange	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:913:13:tls_send_change_cipher_spec	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:45:6:tls_send_client_hello	80	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:945:6:tlsv1_client_handshake_write	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:971:6:tlsv1_client_send_alert	32	static

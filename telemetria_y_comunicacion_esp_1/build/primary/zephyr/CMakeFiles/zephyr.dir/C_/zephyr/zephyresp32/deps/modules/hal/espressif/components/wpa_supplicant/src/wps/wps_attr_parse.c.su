@@ -1,0 +1,5 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_parse.c:20:12:wps_set_vendor_ext_wfa_subelem	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_parse.c:91:12:wps_parse_vendor_ext_wfa	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_parse.c:111:12:wps_parse_vendor_ext	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_parse.c:152:12:wps_set_attr	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_attr_parse.c:596:5:wps_parse_msg	32	static

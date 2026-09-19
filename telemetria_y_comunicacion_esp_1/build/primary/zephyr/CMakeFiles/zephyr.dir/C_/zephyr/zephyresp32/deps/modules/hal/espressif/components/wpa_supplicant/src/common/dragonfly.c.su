@@ -1,0 +1,8 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/dragonfly.c:88:1:dragonfly_get_rand_1_to_p_1	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/dragonfly.c:182:12:dragonfly_get_rand_2_to_r_1	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/dragonfly.c:18:5:dragonfly_suitable_group	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/dragonfly.c:34:14:dragonfly_min_pwe_loop_iter	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/dragonfly.c:53:5:dragonfly_get_random_qr_qnr	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/dragonfly.c:109:5:dragonfly_is_quadratic_residue_blind	128	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/dragonfly.c:191:5:dragonfly_generate_scalar	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/common/dragonfly.c:219:5:dragonfly_sqrt	112	static

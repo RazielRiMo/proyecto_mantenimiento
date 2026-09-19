@@ -1,0 +1,6 @@
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/platform.c:47:7:mbedtls_calloc	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/platform.c:52:6:mbedtls_free	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/platform.c:57:5:mbedtls_platform_set_calloc_free	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/platform.c:214:5:mbedtls_platform_set_exit	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/platform.c:346:5:mbedtls_platform_setup	32	static
+C:/zephyr/zephyresp32/deps/modules/crypto/tf-psa-crypto/platform/platform.c:356:6:mbedtls_platform_teardown	32	static

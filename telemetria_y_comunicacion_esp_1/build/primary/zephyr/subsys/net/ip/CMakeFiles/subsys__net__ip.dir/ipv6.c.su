@@ -1,0 +1,15 @@
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_ip.h:796:20:net_ipv6_is_addr_loopback_raw	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_ip.h:1363:20:net_ipv6_is_addr_unspecified_raw	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_ip.h:1385:20:net_ipv6_is_addr_solicited_node_raw	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_ip.h:1581:20:net_ipv6_is_addr_mcast_group_raw	32	static
+C:/zephyr/zephyresp32/deps/zephyr/include/zephyr/net/net_ip.h:1650:20:net_ipv6_is_addr_mcast_link_all_nodes_raw	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6.c:464:16:extension_to_bitmap	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6.c:162:20:ipv6_drop_on_unknown_option	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6.c:484:20:is_src_non_tentative_itself	32	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6.c:330:25:ipv6_route_packet	80	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6.c:205:19:ipv6_handle_ext_hdr_options	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6.c:61:5:net_ipv6_create	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6.c:119:5:net_ipv6_finalize	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6.c:496:18:net_ipv6_input	128	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6.c:978:5:net_ipv6_addr_generate_iid	48	static
+C:/zephyr/zephyresp32/deps/zephyr/subsys/net/ip/ipv6.c:1072:6:net_ipv6_init	32	static

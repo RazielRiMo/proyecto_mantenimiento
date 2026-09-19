@@ -1,0 +1,5 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/os_xtensa.c:32:5:os_get_time	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/os_xtensa.c:45:15:os_random	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/os_xtensa.c:50:5:os_get_random	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/os_xtensa.c:56:6:os_sleep	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/port/os_xtensa.c:66:7:z_strdup	32	static

@@ -1,0 +1,12 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:117:17:wpabuf_alloc	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:52:5:wpabuf_resize	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:138:17:wpabuf_alloc_ext_data	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:185:6:wpabuf_free	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:210:6:wpabuf_clear_free	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:219:8:wpabuf_put	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/include/utils/wpabuf.h:144:20:wpabuf_put_data	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:163:17:wpabuf_alloc_copy	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:172:17:wpabuf_dup	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:239:17:wpabuf_concat	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:279:17:wpabuf_zeropad	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:301:6:wpabuf_printf	80	static

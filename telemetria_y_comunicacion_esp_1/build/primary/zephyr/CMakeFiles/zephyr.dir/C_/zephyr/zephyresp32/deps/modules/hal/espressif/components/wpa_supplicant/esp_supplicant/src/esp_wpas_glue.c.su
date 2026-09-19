@@ -1,0 +1,13 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_wpas_glue.c:96:13:disable_wpa_wpa2	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_wpas_glue.c:17:5:wpa_alloc_eapol	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_wpas_glue.c:52:6:wpa_free_eapol	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_wpas_glue.c:61:5:wpa_ether_send	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_wpas_glue.c:74:5:hostapd_send_eapol	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_wpas_glue.c:101:6:wpa_supplicant_transition_disable	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_wpas_glue.c:129:5:wpa_sm_alloc_eapol	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_wpas_glue.c:136:6:wpa_sm_free_eapol	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_wpas_glue.c:141:7:wpa_sm_deauthenticate	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_wpas_glue.c:166:6:wpa_sm_mlme_setprotection	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_wpas_glue.c:175:6:wpa_sm_get_beacon_ie	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_wpas_glue.c:188:7:wpa_sm_disassociate	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_wpas_glue.c:193:4:wpa_supplicant_get_transition_disable	32	static

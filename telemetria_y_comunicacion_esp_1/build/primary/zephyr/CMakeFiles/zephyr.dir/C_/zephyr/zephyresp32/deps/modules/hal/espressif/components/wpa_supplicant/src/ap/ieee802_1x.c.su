@@ -1,0 +1,16 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:325:13:ieee802_1x_aaa_send	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:398:13:ieee802_1x_set_port_authorized	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:404:13:_ieee802_1x_abort_auth	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:409:13:ieee802_1x_eapol_event	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:386:12:ieee802_1x_sta_entry_alive	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:65:13:handle_eap_response	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:92:13:handle_eap	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:346:12:ieee802_1x_get_eap_user	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:464:13:ieee802_1x_finished	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:337:13:_ieee802_1x_finished	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:36:13:ieee802_1x_send	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:294:13:ieee802_1x_eapol_send	64	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:132:1:ieee802_1x_alloc_eapol_sm	48	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:154:6:ieee802_1x_receive	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:282:6:ieee802_1x_free_station	32	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/wpa_supplicant/src/ap/ieee802_1x.c:428:5:ieee802_1x_init	128	static

@@ -1,0 +1,2 @@
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/lib_printf.c:27:15:phy_printf	80	static
+C:/zephyr/zephyresp32/deps/modules/hal/espressif/components/esp_phy/src/lib_printf.c:38:15:rtc_printf	80	static
